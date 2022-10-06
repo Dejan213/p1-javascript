@@ -1,0 +1,3 @@
+function kleur_aanpassen() {
+    
+}
